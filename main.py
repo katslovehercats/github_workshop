@@ -1,1 +1,1 @@
-Print "I am unicorn".
+print("I am unicorn").
